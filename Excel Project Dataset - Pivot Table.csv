@@ -1,0 +1,60 @@
+AVERAGE of Income,Purchased Bike,,
+Gender,No,Yes,Grand Total
+Female,"$53,440","$55,774","$54,581"
+Male,"$56,208","$60,124","$58,063"
+Grand Total,"$54,875","$57,963","$56,360"
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+COUNTA of Purchased Bike,Purchased Bike,,
+Commute Distance,No,Yes,Grand Total
+0-1 Miles,166,200,366
+1-2 Miles,92,77,169
+2-5 Miles,67,95,162
+5-10 Miles,116,76,192
+More then 10 miles Miles,78,33,111
+Grand Total,519,481,1000
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+COUNTA of Purchased Bike,Purchased Bike,,
+Age Brackets,No,Yes,Grand Total
+Adolescent,71,39,110
+Middle age,331,388,719
+Old,117,54,171
+Grand Total,519,481,1000
