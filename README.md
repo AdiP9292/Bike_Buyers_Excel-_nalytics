@@ -61,7 +61,7 @@ The dataset contains customer demographic and behavioral attributes, including w
   - KPI summary visuals
 
 
-## Insights & Highlights
+## Insights
 
 - Bike buyers are more likely to have higher income, be married, and live closer to work.
 - Certain job roles and education levels have higher purchase probabilities.
