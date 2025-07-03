@@ -49,14 +49,14 @@ The dataset contains customer demographic and behavioral attributes, including w
 
 
 ## Tools & Techniques
-
--  **Microsoft Excel**:
-  - Data Cleaning and Preprocessing
+ 
+**Microsoft Excel**:
+  -  Data Cleaning and Preprocessing
   - Pivot Tables and Charts
   - Conditional Formatting
   - IF, VLOOKUP, COUNTIF Functions
     
--  **Dashboard**:
+**Dashboard**:
   - Purchase trends by region, gender, income, and education
   - KPI summary visuals
 
